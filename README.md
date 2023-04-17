@@ -206,3 +206,4 @@ $ php artisan bernard:produce MyService '{"json":"data"}'
 # consume messages
 $ php artisan bernard:consume my-service
 ```
+Created By Pegasus
